@@ -2,12 +2,12 @@
 
 <div align="justify">
 
-[![Instagram](https://img.shields.io/badge/rzashakeri-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rzashakeri/)
-[![Twitter](https://img.shields.io/badge/rzashakeri-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/rzashakeri/)
-[![Linkedin](https://img.shields.io/badge/rzashakeri-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rzashakeri//)
-[![github](https://img.shields.io/badge/rzashakeri-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rzashakeri/)
-[![telegram](https://img.shields.io/badge/rzashakeri-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rzashakeri/)
-[![gitlab](https://img.shields.io/badge/rzashakeri-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/rzashakeri)
+[![Instagram](https://img.shields.io/badge/rzashakeri-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rzashakeri/)&nbsp;
+[![Twitter](https://img.shields.io/badge/rzashakeri-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/rzashakeri/)&nbsp;
+[![Linkedin](https://img.shields.io/badge/rzashakeri-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rzashakeri//)&nbsp;
+[![github](https://img.shields.io/badge/rzashakeri-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rzashakeri/)&nbsp;
+[![telegram](https://img.shields.io/badge/rzashakeri-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rzashakeri/)&nbsp;
+[![gitlab](https://img.shields.io/badge/rzashakeri-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/rzashakeri)&nbsp;
 
  
 </div>  
