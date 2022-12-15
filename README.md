@@ -12,7 +12,7 @@
  
 </div>  
 <p align="justify"> 
-Hello friends ✋ , welcome to my GitHub. I am Reza Shakri and I have tried most programming fields such as game development, mobile application development, web design, and development. Almost more than 10 years have passed since then. I am currently a computer engineering student
+Hello friends ✋ , welcome to my GitHub. I am Reza Shakeri and I have tried most programming fields such as game development, mobile application development, web design, and development. Almost more than 10 years have passed since then. I am currently a computer engineering student
 &nbsp;
 
 </p>
