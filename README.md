@@ -14,8 +14,6 @@
 <p align="justify"> 
 Hello friends ✋, welcome to my GitHub Page. I am Reza Shakeri and now I am a software engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 10 years
  
-Summary : **eat(); &nbsp; sleep(); &nbsp;code(); &nbsp;repeat();**
-&nbsp;
 
 </p>
 
