@@ -2,9 +2,9 @@
 
 <div align="justify">
 
-[![Instagram](https://img.shields.io/badge/rzashakeri-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rzashakeri/)&nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/rzashakeri-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rzashakeri/)&nbsp;&nbsp;&nbsp;
 [![Twitter](https://img.shields.io/badge/rzashakeri-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/rzashakeri/)&nbsp;&nbsp;&nbsp;
-[![Linkedin](https://img.shields.io/badge/rzashakeri-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rzashakeri//)&nbsp;&nbsp;
+[![Linkedin](https://img.shields.io/badge/rzashakeri-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rzashakeri//)&nbsp;&nbsp;&nbsp;
 [![github](https://img.shields.io/badge/rzashakeri-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rzashakeri/)&nbsp;&nbsp;&nbsp;
 [![telegram](https://img.shields.io/badge/rzashakeri-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rzashakeri/)&nbsp;&nbsp;&nbsp;
 [![gitlab](https://img.shields.io/badge/rzashakeri-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/rzashakeri)
@@ -12,7 +12,9 @@
  
 </div>  
 <p align="justify"> 
-Hello friends ✋ , welcome to my GitHub. I am Reza Shakeri and I have tried most programming fields such as game development, mobile application development, web design, and development. Almost more than 10 years have passed since then. I am currently a computer engineering student
+Hello friends ✋, welcome to my GitHub Page. I am Reza Shakeri and now I am a software engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 10 years
+ 
+Summary : **eat(); &nbsp; sleep(); &nbsp;code(); &nbsp;repeat();**
 &nbsp;
 
 </p>
