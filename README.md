@@ -155,7 +155,7 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
 
 ## Recent GitHub Activity ✅
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/rzashakeri/beautify-github-profile/issues/24) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+1. 🗣 Commented on [#25](https://github.com/rzashakeri/beautify-github-profile/issues/25) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
 2. ❌ Closed PR [#12](https://github.com/rzashakeri/file_validator/pull/12) in [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator)
 3. 💪 Opened PR [#12](https://github.com/rzashakeri/file_validator/pull/12) in [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator)
 4. 🎉 Merged PR [#11](https://github.com/rzashakeri/file_validator/pull/11) in [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator)
