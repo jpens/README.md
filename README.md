@@ -155,9 +155,9 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
 
 ## Recent GitHub Activity ✅
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/file-validator/file-validator/pull/13) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
-2. 💪 Opened PR [#13](https://github.com/file-validator/file-validator/pull/13) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
-3. ❗️ Closed issue [#25](https://github.com/rzashakeri/beautify-github-profile/issues/25) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+1. 💪 Opened PR [#14](https://github.com/file-validator/file-validator/pull/14) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
+2. 🎉 Merged PR [#13](https://github.com/file-validator/file-validator/pull/13) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
+3. 💪 Opened PR [#13](https://github.com/file-validator/file-validator/pull/13) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
 4. 🗣 Commented on [#25](https://github.com/rzashakeri/beautify-github-profile/issues/25) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
 5. 🗣 Commented on [#25](https://github.com/rzashakeri/beautify-github-profile/issues/25) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
 <!--END_SECTION:activity-->
