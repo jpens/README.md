@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm reza" title="👋 Hi there! I'm reza"/>
 
-<div style="text-align: justify" align="justify">
+<div align="justify">
  
 <a href="https://www.instagram.com/rzashakeri/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
@@ -26,9 +26,8 @@
 <img src="https://img.shields.io/badge/gitlab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
 </a>
  
+</div> 
 
- 
-</div>  
 <p align="justify"> 
 welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/barnamenevisiinsta">Barnamenevisinsta</a> that shares everything I learn about programming.
  
