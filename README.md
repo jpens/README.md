@@ -172,11 +172,11 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
 
 ## Recent GitHub Activity ✅
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#81](https://github.com/file-validator/file-validator/pull/81) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
-2. 💪 Opened PR [#2375](https://github.com/vinta/awesome-python/pull/2375) in [vinta/awesome-python](https://github.com/vinta/awesome-python)
-3. 🎉 Merged PR [#80](https://github.com/file-validator/file-validator/pull/80) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
-4. 💪 Opened PR [#80](https://github.com/file-validator/file-validator/pull/80) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
-5. 🎉 Merged PR [#79](https://github.com/file-validator/file-validator/pull/79) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
+1. 💪 Opened PR [#82](https://github.com/file-validator/file-validator/pull/82) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
+2. 🎉 Merged PR [#81](https://github.com/file-validator/file-validator/pull/81) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
+3. 💪 Opened PR [#2375](https://github.com/vinta/awesome-python/pull/2375) in [vinta/awesome-python](https://github.com/vinta/awesome-python)
+4. 🎉 Merged PR [#80](https://github.com/file-validator/file-validator/pull/80) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
+5. 💪 Opened PR [#80](https://github.com/file-validator/file-validator/pull/80) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
 <!--END_SECTION:activity-->
 
 ## GitHub Profile Trophy 🏆
