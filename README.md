@@ -172,11 +172,11 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
 
 ## Recent GitHub Activity ✅
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#96](https://github.com/file-validator/file-validator/pull/96) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
-2. 💪 Opened PR [#96](https://github.com/file-validator/file-validator/pull/96) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
-3. 🎉 Merged PR [#95](https://github.com/file-validator/file-validator/pull/95) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
-4. 💪 Opened PR [#95](https://github.com/file-validator/file-validator/pull/95) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
-5. 💪 Opened PR [#94](https://github.com/file-validator/file-validator/pull/94) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
+1. 🎉 Merged PR [#103](https://github.com/file-validator/file-validator/pull/103) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
+2. 💪 Opened PR [#103](https://github.com/file-validator/file-validator/pull/103) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
+3. 🎉 Merged PR [#102](https://github.com/file-validator/file-validator/pull/102) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
+4. 💪 Opened PR [#102](https://github.com/file-validator/file-validator/pull/102) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
+5. 🎉 Merged PR [#101](https://github.com/file-validator/file-validator/pull/101) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
 <!--END_SECTION:activity-->
 
 ## GitHub Profile Trophy 🏆
